@@ -17,13 +17,14 @@
 * **NK** - DSLR Pictures
 * **KN** - DSLR Pictures
 
-## During Break 1
+## During Coffee Break 1
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - Interact with crowd
 * **LC** - Remove Registration Desk
 * **AK** - _NO WORK_
 * **NK** - DSLR Pictures
 * **KN** - DSLR Pictures
+* **OV** - Keep tab on coffee
 
 ## During Talk 2 - Google Assistant
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -38,19 +39,68 @@
 * **IP** - `Inside` Announce most tweets winner - Google Home giveaway
 * **IP** - `Inside` Announce Networking game
 
-## Photograph
+## After Giveaway
 * **IP** - Announce for photo
 * **_ALL ASSEMBLE AT ATRIUM FOR GROUP PHOTO_**
 * **NK** - Stairs photo
 * **KN** - Ground level photo
 
-## Lunch
+## During Lunch
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments, speaker 
-* **SN** - Check activity and give mugs
-* **LC** - Check activity and give mugs
+* **SN** - Check activity and give mugs __GIVE FIRST 30 MUGS__
+* **LC** - Check activity and give mugs __GIVE FIRST 30 MUGS__
 * **OV** - Stand at Vegan counter to check ID card
-* **KN** - Ground level photo
-* **NK** - Ground level photo
+* **KN** - DSLR Pictures
+* **NK** - DSLR Pictures
+
+## During Talk 3 - Flutter
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments, speaker 
+* **SN** - Clean trash
+* **LC** - Clean trash
+* **AK** - `Inside` _NO WORK_
+* **OV** - Re-arrange table for Break 2
+* **KN** - `Inside` DSLR Pictures
+* **NK** - `Inside` DSLR Pictures
+
+## After Talk 3 
+* **IP** - `Inside` Announce Kafka Tshirt giveaway for Kafka and DevFest tweets 
+
+## During Coffee Break 2
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
+* **SN** - Interact with crowd
+* **LC** - Keep tab on coffee
+* **AK** - _NO WORK_
+* **NK** - DSLR Pictures
+* **KN** - DSLR Pictures
+* **OV** - Keep tab on coffee
+
+## During Talk 4 - TensorFlow
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
+* **SN** - `Inside` Attend talk
+* **LC** - `Inside` Attend talk
+* **AK** - `Inside` _NO WORK_
+* **NK** - `Inside` DSLR Pictures
+* **KN** - `Inside` DSLR Pictures
+* **OV** - Outside at Reg Desk
+
+## During Coffee Break 3
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
+* **SN** - Keep tab on coffee
+* **LC** - Interact with crowd
+* **AK** - _NO WORK_
+* **NK** - DSLR Pictures
+* **KN** - DSLR Pictures
+* **OV** - Keep tab on coffee
+
+## During Talk 5 - Kotlin Everywhere
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
+* **SN** - Arrange Pizza Tables
+* **LC** - Get Pizza
+* **AK** - `Inside` _NO WORK_
+* **NK** - Get Pizza
+* **KN** - DSLR Pictures
+* **OV** - Arrange Pizza Tables
+
 
 
 ### Notes
