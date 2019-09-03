@@ -8,7 +8,7 @@
 * **NK** - Drive VAN
 * **KN** - DSLR Pictures
 
-## During Talk 1
+## During Talk 1 - PWA
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - Registration Desk - verify ticket, verify RSVP on Meetup, give ID badge & brochure
 * **LC** - Registration Desk - verify ticket, verify RSVP on Meetup, give ID badge & brochure
@@ -25,7 +25,7 @@
 * **NK** - DSLR Pictures
 * **KN** - DSLR Pictures
 
-## During Talk 2
+## During Talk 2 - Google Assistant
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **LC** - Arrange lunch tables before **NK** & **SN** get lunch
 * **OV** - Arrange lunch tables before **NK** & **SN** get lunch
@@ -34,21 +34,27 @@
 * **NK** - Get Lunch
 * **KN** - DSLR Pictures
 
+## After Talk
+* **IP** - `Inside` Announce most tweets winner - Google Home giveaway
+* **IP** - `Inside` Announce Networking game
+
 ## Photograph
-* **IP** - Announce
+* **IP** - Announce for photo
 * **_ALL ASSEMBLE AT ATRIUM FOR GROUP PHOTO_**
 * **NK** - Stairs photo
 * **KN** - Ground level photo
 
 ## Lunch
-* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
-* **_ALL ASSEMBLE AT ATRIUM FOR GROUP PHOTO_**
-* **NK** - Stairs photo
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments, speaker 
+* **SN** - Check activity and give mugs
+* **LC** - Check activity and give mugs
+* **OV** - Stand at Vegan counter to check ID card
 * **KN** - Ground level photo
-
+* **NK** - Ground level photo
 
 
 ### Notes
 * **SN** & **LC** - During registration keep a tab of how many people left to register, other stats
+
 
 
