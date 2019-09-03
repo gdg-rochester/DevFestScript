@@ -73,10 +73,10 @@
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - Interact with crowd
 * **LC** - Keep tab on coffee
+* **OV** - Keep tab on coffee
 * **AK** - _NO WORK_
 * **NK** - DSLR Pictures
 * **KN** - DSLR Pictures
-* **OV** - Keep tab on coffee
 
 ## During Talk 4 - TensorFlow ~ 2:55 PM - 3:55 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -90,20 +90,20 @@
 ## During Coffee Break 3 ~ 3:55 PM - 4:05 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - Keep tab on coffee
+* **OV** - Keep tab on coffee
 * **LC** - Interact with crowd
 * **AK** - _NO WORK_
 * **NK** - Drop __SPEAKER 4__ to airport
 * **KN** - DSLR Pictures
-* **OV** - Keep tab on coffee
 
 ## During Talk 5 - Kotlin Everywhere ~ 4:05 PM - 5:05 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - Arrange Pizza Tables
-* **LC** - Get Pizza
+* **OV** - Arrange Pizza Tables
 * **AK** - `Inside` _NO WORK_
 * **NK** - Get Pizza
+* **LC** - Get Pizza
 * **KN** - DSLR Pictures
-* **OV** - Arrange Pizza Tables
 
 ## After Talk 5 ~ 5:05 PM - 5:10 PM
 * **IP** - `Inside` Announce Jetbrains giveaway for tweets - 4 for job people, ZY & AS
@@ -120,10 +120,10 @@
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
 * **SN** - `Inside` Attend talk
 * **LC** -  Arrange Swags table
+* **OV** -  Arrange Swags table
 * **AK** - `Inside` _NO WORK_
 * **NK** - `Inside` DSLR photos
 * **KN** - `Inside` DSLR photos
-* **OV** -  Arrange Swags table
 
 ## After Talk 6 ~ 6:30 PM - 6:45 PM
 * **IP** - `Inside` Announce best photo tweet giveaway - Google Home
