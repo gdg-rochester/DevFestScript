@@ -92,7 +92,7 @@
 * **SN** - Keep tab on coffee
 * **LC** - Interact with crowd
 * **AK** - _NO WORK_
-* **NK** - DSLR Pictures
+* **NK** - Drop __SPEAKER 4__ to airport
 * **KN** - DSLR Pictures
 * **OV** - Keep tab on coffee
 
@@ -138,6 +138,8 @@
 
 ### Notes
 * **SN** & **LC** - During registration keep a tab of how many people left to register, other stats
+* __3:55 PM__ - __Speaker 4 Leaves__
+* __
 
 
 
