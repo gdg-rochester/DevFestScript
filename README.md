@@ -101,6 +101,31 @@
 * **KN** - DSLR Pictures
 * **OV** - Arrange Pizza Tables
 
+## After Talk 5 
+* **IP** - `Inside` Announce Jetbrains giveaway for tweets - 4 for job people, ZY & AS
+
+## During Pizza Break 
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments, speaker 
+* **SN** - Check activity and give mugs __GIVE FIRST 30 MUGS__
+* **LC** - Check activity and give mugs __GIVE FIRST 30 MUGS__
+* **OV** - Keep tab on coffee and pizza
+* **KN** - DSLR Pictures
+* **NK** - DSLR Pictures
+
+## During Talk 6 - Serverless on cloud
+* **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
+* **SN** - `Inside` Attend talk
+* **LC** - `Inside` Attend talk
+* **AK** - `Inside` _NO WORK_
+* **NK** - `Inside` Attend talk
+* **KN** - `Inside` Attend talk
+* **OV** - `Inside` Attend talk
+
+## After Talk 6
+* **IP** - `Inside` Announce best photo tweet giveaway - Google Home
+* **IP** - `Inside` Announce Feedback and keep submission screen ready 
+
+
 
 
 ### Notes
