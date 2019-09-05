@@ -10,7 +10,7 @@
 * **AK** - Stand at Magic Center and give directions to GCCIS
 * **OV** - Keep a tab on breakfast, help attendees RSVP to Meetup
 * **NK** - Drive VAN, Bring __SPEAKER 1 AND 2__
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## During Talk 1 - PWA ~ 10:00 AM - 11:00 AM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -19,7 +19,7 @@
 * **OV** - Stand at Magic Center and give directions to GCCIS (half time) then attend
 * **AK** - `Inside` Attend talk
 * **NK** - DSLR Pictures
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## During Coffee Break 1 ~ 10:00 AM - 11:10 AM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -27,7 +27,7 @@
 * **LC** - Remove Registration Desk
 * **AK** - _NO WORK_
 * **NK** - Bring __SPEAKER 3,4,5 AND 6__
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 * **OV** - Keep tab on coffee
 
 ## During Talk 2 - Google Assistant ~ 11:10 AM - 12:10 PM
@@ -37,7 +37,7 @@
 * **AK** - `Inside` Attend talk
 * **SN** - Get Lunch
 * **NK** - Get Lunch
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## After Talk ~ 12:10 PM - 12:15 PM
 * **IP** - `Inside` Announce most tweets winner - Google Home giveaway
@@ -47,14 +47,14 @@
 * **IP** - Announce for photo
 * **_ALL ASSEMBLE AT ATRIUM FOR GROUP PHOTO_**
 * **NK** - Stairs photo
-* **KN** - Ground level photo
+* **KN** - ~~Ground level photo~~
 
 ## During Lunch ~ 12:20 PM - 1:45 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments, speaker 
 * **SN** - Check activity and give mugs __GIVE FIRST 30 MUGS__
 * **LC** - Check activity and give mugs __GIVE FIRST 30 MUGS__
 * **OV** - Stand at Vegan counter to check ID card
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 * **NK** - DSLR Pictures
 
 ## During Talk 3 - Flutter ~ 1:45 PM - 2:45 PM
@@ -63,7 +63,7 @@
 * **LC** - Clean trash
 * **AK** - `Inside` _NO WORK_
 * **OV** - Re-arrange table for Break 2
-* **KN** - `Inside` DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 * **NK** - `Inside` DSLR Pictures
 
 ## After Talk 3 ~ 2:45 PM - 2:50 PM
@@ -76,7 +76,7 @@
 * **OV** - Keep tab on coffee
 * **AK** - _NO WORK_
 * **NK** - DSLR Pictures
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## During Talk 4 - TensorFlow ~ 2:55 PM - 3:55 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -84,7 +84,7 @@
 * **LC** - `Inside` Attend talk
 * **AK** - `Inside` _NO WORK_
 * **NK** - `Inside` DSLR Pictures
-* **KN** - `Inside` DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 * **OV** - Outside at Reg Desk
 
 ## During Coffee Break 3 ~ 3:55 PM - 4:05 PM
@@ -94,7 +94,7 @@
 * **LC** - Interact with crowd
 * **AK** - _NO WORK_
 * **NK** - Drop __SPEAKER 4__ to airport
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## During Talk 5 - Kotlin Everywhere ~ 4:05 PM - 5:05 PM
 * **IP** - `Inside` Audi - tweeting, coordinating seats, handling A/V equipments
@@ -103,7 +103,7 @@
 * **AK** - `Inside` _NO WORK_
 * **NK** - Get Pizza
 * **LC** - Get Pizza
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 
 ## After Talk 5 ~ 5:05 PM - 5:10 PM
 * **IP** - `Inside` Announce Jetbrains giveaway for tweets - 4 for job people, ZY & AS
@@ -113,7 +113,7 @@
 * **SN** - Check activity and give mugs __GIVE LAST 30 MUGS__
 * **LC** - Check activity and give mugs __GIVE LAST 30 MUGS__
 * **OV** - Keep tab on coffee and pizza
-* **KN** - DSLR Pictures
+* **KN** - ~~DSLR Pictures~~
 * **NK** - DSLR Pictures
 
 ## During Talk 6 - Serverless on cloud ~ 5:30 PM - 6:30 PM
@@ -123,7 +123,7 @@
 * **OV** -  Arrange Swags table
 * **AK** - `Inside` _NO WORK_
 * **NK** - `Inside` DSLR photos
-* **KN** - `Inside` DSLR photos
+* **KN** - ~~DSLR photos~~
 
 ## After Talk 6 ~ 6:30 PM - 6:45 PM
 * **IP** - `Inside` Announce best photo tweet giveaway - Google Home
@@ -132,7 +132,7 @@
 * **LC** - Check feedback form and give swag 
 * **OV** - Remove Flyers, Audi cleaning
 * **NK** - DSLR Photo 
-* **KN** - DSLR Photo 
+* **KN** - ~~DSLR Photo~~
 
 
 
